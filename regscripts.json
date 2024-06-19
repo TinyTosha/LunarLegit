@@ -1,8 +1,0 @@
-{
-    "scripts": [
-        {
-            "name": "Trigger",
-            "path": "scripts/trigger/loader.exe"
-        }
-    ]
-}
